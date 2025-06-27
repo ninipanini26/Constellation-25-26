@@ -5,7 +5,7 @@ const it = "#ff1808";
 const c = "#ffc800";
 const m = "#ff0059";
 const co = "#ffffff";
-const coR = "##ffdf74"; //constellation RELATED calls (any perserverence calls) or non constellation pairings
+const coR = "#ffdf74"; //constellation RELATED calls (any perserverence calls) or non constellation pairings
 
 const stars = [
     {
@@ -73,7 +73,7 @@ const stars = [
         title: "#9 | Tennessine Titans Call",
         description: "Maryville, Tennessee, United States",
         takeaway:
-            "EMPTY",
+            "Strategically organizing the information that goes on each portfolio page is super important, because it helps readers intuitively understand the content of your portfolio!",
         color: it,
         coordinates: {lat:35.75875413620, lng:-90.9713320850}
     },
@@ -83,7 +83,14 @@ const stars = [
         takeaway:
             "We learned about the LAUSD FTC program and the specific needs of the students. Our next steps are to launch the Perseverance program with targeted workshops, hands-on support throughout the season, and expanded collaboration through the Constellation program.",
         color: coR,
-        coordinates: { lat: 34.0722, lng: -118.4441}
+        coordinates: { lat: 34.1722, lng: -118.5}
+    },
+    { title: "#11 | Call with iAmAngel Foundation",
+        description: "Los Angeles, CA, United States",
+        takeaway:
+            "We learned about the structure and formatting of the LAUSD FTC season and identified key areas where our team can provide meaningful support. It was valuable to discuss next steps for the Perseverance program and brainstorm ideas as we begin launching it.",
+        color: coR,
+        coordinates: { lat: 34.1722, lng: -118.5}
     },
     {title: "Constellation Team: 19013 G Force",
          description: "Mumbai, India",
