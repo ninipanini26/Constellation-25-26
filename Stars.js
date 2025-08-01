@@ -92,6 +92,13 @@ const stars = [
         color: coR,
         coordinates: { lat: 34.1722, lng: -118.5}
     },
+       { title: "#12 | 23344 Technical Turbulence Portfolio Feedback",
+        description: "Plano, TX, United States",
+        takeaway:
+            "EMPTY",
+        color: it,
+        coordinates: { lat: 33.0217, lng: -96.6980}
+    },
     {title: "Constellation Team: 19013 G Force",
          description: "Mumbai, India",
          color: co,
