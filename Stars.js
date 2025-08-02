@@ -95,7 +95,7 @@ const stars = [
        { title: "#12 | 23344 Technical Turbulence Portfolio Feedback",
         description: "Plano, TX, United States",
         takeaway:
-            "EMPTY",
+            "Charts and diagrams are a super useful way to communicate technically complex information, and when done well, allow you to minimize word count while still communicating effectively. ",
         color: it,
         coordinates: { lat: 33.0217, lng: -96.6980}
     },
