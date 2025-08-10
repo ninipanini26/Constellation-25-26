@@ -99,6 +99,14 @@ const stars = [
         color: it,
         coordinates: { lat: 33.0217, lng: -96.6980}
     },
+     { title: "#13 | Call with Sarah Nwakudu",
+        description: "Berkeley, CA, United States",
+        takeaway:
+            "We learned about industry best practices for injection molding and plastic casting from a pioneering female engineer! Discussing our future directions for our plastic project and receiving expert guidance on measuring real-life parts was incredibly valuable.",
+        color: c,
+        coordinates: { lat: 37.716, lng: -122.2727}
+    },
+    
     {title: "Constellation Team: 19013 G Force",
          description: "Mumbai, India",
          color: co,
