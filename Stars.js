@@ -106,6 +106,27 @@ const stars = [
         color: c,
         coordinates: { lat: 37.716, lng: -122.2727}
     },
+        { title: "#14 | Call with Ruth Turgeman - Everglow",
+        description: "Los Angeles, CA, United States",
+        takeaway:
+            "EMPTY",
+        color: it,
+        coordinates: {lat: 34.1722, lng: -118.5}
+    },
+        { title: "#15 | FilaBot Call",
+        description: "Barre, Vermont, United States",
+        takeaway:
+            "We learned the standard procedure for dehydrating polypropylene chips to extrude with the Filabot! Our next steps will be to create our own DIY pellet dryer and test with the Filabot filament extruder. ",
+        color: c,
+        coordinates: { lat: 44.191, lng: -72.502}
+    },
+        { title: "#16 | Rich Silberfeld / Scrap Conversion ",
+        description: "Bohemia, New York, United States",
+        takeaway:
+            "We learned about the best practices for processing polypropylene and about different ways of dehydrating it as well as future steps for our plastic recycling project.",
+        color: c,
+        coordinates: {lat: 40.76447, lng: -73.10070} 
+    },
     
     {title: "Constellation Team: 19013 G Force",
          description: "Mumbai, India",
