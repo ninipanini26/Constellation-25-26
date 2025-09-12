@@ -127,6 +127,27 @@ const stars = [
         color: c,
         coordinates: {lat: 40.76447, lng: -73.10070} 
     },
+      { title: "#17 | Kickoff Portfolio Presentation #1",
+        description: "Los Angeles, CA, United States",
+        takeaway:
+            "We learned how fun it is to share our knowledge about creating the portfolio with other teams and how we can effectively address their questions.",
+        color: it,
+        coordinates: { lat: 34.08720821088031, lng: -118.32861041712056} 
+    },
+      { title: "#18 | Kickoff Portfolio Presentation #2",
+        description: "Los Angeles, CA, United States",
+        takeaway:
+            "We learned about the different ways teams in our region approach the portfolio process, and we gained some insight into the ways that smaller teams break down large tasks like the portfolio. ",
+        color: it,
+        coordinates: { lat: 34.08720821088031, lng: -118.32861041712056} 
+    },
+      { title: "27621 Heron Robotics Portfolio Feedback",
+        description: "Palo Alto, California, United States",
+        takeaway:
+            "It is important to make sure to use a consistent color scheme and descriptions for outreach. Also, coming up with unique titles for each page will enhance the personality of your portfolio.",
+        color: it,
+        coordinates: {lat:37.4419, lng:-122.1430} 
+    },
     
     {title: "Constellation Team: 19013 G Force",
          description: "Mumbai, India",
