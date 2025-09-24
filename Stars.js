@@ -107,41 +107,48 @@ const stars = [
         coordinates: { lat: 37.716, lng: -122.2727}
     },
         { title: "#14 | Call with Ruth Turgeman - Everglow",
-        description: "Los Angeles, CA, United States",
+        description: "Jerusalem, JM, Israel",
         takeaway:
             "EMPTY",
         color: it,
-        coordinates: {lat: 34.1722, lng: -118.5}
+        coordinates: {lat: 31.7769, lng: 32.2224}
     },
-        { title: "#15 | FilaBot Call",
+         { title: "#15 | Violets 101 New Students Orientation",
+        description: "Los Angeles, CA, United States",
+        takeaway:
+            "It was incredible to be able to share our love for FIRST and robotics with an audience of new students at our school and get them interested in our robotics program!",
+        color: m,
+        coordinates: { lat: 34.08720821088031, lng: -118.32861041712056}
+    },
+        { title: "#16 | FilaBot Call",
         description: "Barre, Vermont, United States",
         takeaway:
             "We learned the standard procedure for dehydrating polypropylene chips to extrude with the Filabot! Our next steps will be to create our own DIY pellet dryer and test with the Filabot filament extruder. ",
         color: c,
         coordinates: { lat: 44.191, lng: -72.502}
     },
-        { title: "#16 | Rich Silberfeld / Scrap Conversion ",
+        { title: "#17 | Rich Silberfeld / Scrap Conversion ",
         description: "Bohemia, New York, United States",
         takeaway:
             "We learned about the best practices for processing polypropylene and about different ways of dehydrating it as well as future steps for our plastic recycling project.",
         color: c,
         coordinates: {lat: 40.76447, lng: -73.10070} 
     },
-      { title: "#17 | Kickoff Portfolio Presentation #1",
+      { title: "#18 | Kickoff Portfolio Presentation #1",
         description: "Los Angeles, CA, United States",
         takeaway:
             "We learned how fun it is to share our knowledge about creating the portfolio with other teams and how we can effectively address their questions.",
         color: it,
         coordinates: { lat: 34.08720821088031, lng: -118.32861041712056} 
     },
-      { title: "#18 | Kickoff Portfolio Presentation #2",
+      { title: "#19 | Kickoff Portfolio Presentation #2",
         description: "Los Angeles, CA, United States",
         takeaway:
             "We learned about the different ways teams in our region approach the portfolio process, and we gained some insight into the ways that smaller teams break down large tasks like the portfolio. ",
         color: it,
         coordinates: { lat: 34.08720821088031, lng: -118.32861041712056} 
     },
-      { title: "27621 Heron Robotics Portfolio Feedback",
+      { title: "#20 | 27621 Heron Robotics Portfolio Feedback",
         description: "Palo Alto, California, United States",
         takeaway:
             "It is important to make sure to use a consistent color scheme and descriptions for outreach. Also, coming up with unique titles for each page will enhance the personality of your portfolio.",
