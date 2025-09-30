@@ -109,9 +109,9 @@ const stars = [
         { title: "#14 | Call with Ruth Turgeman - Everglow",
         description: "Jerusalem, JM, Israel",
         takeaway:
-            "EMPTY",
+            "Working with those in our community to support their robot design and create access to parts empowers all of us by lifting up our competition. ",
         color: it,
-        coordinates: {lat: 31.7769, lng: 32.2224}
+        coordinates: {lat: 31.1769, lng: 34.8224}
     },
          { title: "#15 | Violets 101 New Students Orientation",
         description: "Los Angeles, CA, United States",
@@ -155,7 +155,33 @@ const stars = [
         color: it,
         coordinates: {lat:37.4419, lng:-122.1430} 
     },
-    
+    { title: "#21 | iAmAngel x LAUSD Build Day",
+        description: "Los Angeles, CA, United States",
+        takeaway:
+            "It was such a valuable experience to be able to share our technical knowledge in person and help teams in need! We learned about new video editing techniques and also some important things to keep in mind for our next lessons which will include java programming and presentational skills, two areas teams expressed an interest in learning more about.",
+        color: coR,
+        coordinates: { lat: 34.08720821088031, lng: -118.32861041712056}
+    },
+    { title: "#22 | Build Day Robot Presentation",
+        description: "Los Angeles, CA, United States",
+        takeaway:
+            "We learned first hand how valuable it is to directly give back and share our experience with students in our city. We also discovered that many teams could benefit from additional support in Java programming.",
+        color: coR,
+        coordinates: { lat: 34.08720821088031, lng: -118.32861041712056}
+    },
+    { title: "#23 | FLL Tournament Directors Meeting",
+        description: "Riverside, CA,  United States",
+        takeaway:
+            "We can learn a lot by collaborating with other local FLL leaders in our community, and can work with others who compliment our strengths and weaknesses. By reaching out to newer female FTC and FRC teams, we can forge valuable connections while also learning about best practices when running an FLL meet! We also learned the largest paper cup is made out of cement.",
+        color: coR,
+        coordinates: { lat: 33.953350, lng:-117.396156}
+    },
+    { title: "#24 | Global Giving Interview",
+        description: "Washington, D.C., United States",
+        takeaway: "It was incredible to be able to share our love for FIRST with a global audience. We truly enjoyed the rewarding process of being able to raise money for a cause we care about.",
+        color: coR,
+        coordinates: { lat: 38.9, lng: -77.03}
+    },
     {title: "Constellation Team: 19013 G Force",
          description: "Mumbai, India",
          color: co,
