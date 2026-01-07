@@ -314,7 +314,7 @@ const stars = [
         title: "#39 |  Marlborough Admissions Open House ",
         description: "Los Angeles, CA, United States",
         takeaway:
-            "We were able to introduce X prospective students and their families to FIRST, sharing the mission and impact of robotics with girls throughout Los Angeles County. ",
+            "We were able to introduce 120 prospective students and their families to FIRST, sharing the mission and impact of robotics with girls throughout Los Angeles County. ",
         color: c,
         coordinates: { lat: 34.08720821088031, lng: -118.32861041712056}
     },
