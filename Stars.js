@@ -206,7 +206,150 @@ const stars = [
         color: m,
         coordinates: { lat: 34.08720821088031, lng: -118.32861041712056 }
     },
-
+    {
+        title: "#26 |  UCLA Exploring Your Universe STEM Fair",
+        description: "Los Angeles, CA, United States",
+        takeaway:
+            "At the UCLA STEM Fair, we had the opportunity to introduce a new audience of students and parents to the world of robotics and FIRST programs. By demonstrating our FTC robots and introducing younger students to FLL, we were able to inspire them to explore STEM and join FIRST programs themselves. Additionally, interacting with university engineers and scientists as the only high schoolers presenting at the STEM fair allowed us to rekindle old connections and foster new bonds with university organizations.",
+        color: m,
+        coordinates: { lat: 34.08720821088031, lng: -118.32861041712056}
+    },
+    {
+        title: "#27 |  The Center For Early Education FLL QT ",
+        description: "Los Angeles, CA, United States",
+        takeaway:
+            "We volunteered at The Center For Early Education’s (CEE) First Lego League qualifying meet as referees and judges. We learned more about behind the scenes of running an FLL meet and it helped us prepare for our own FLL meet. ",
+        color: m,
+        coordinates: { lat: 34.08720821088031, lng: -118.32861041712056}
+    },
+    {
+        title: "#28 | Curiosity-Hosted FLL Qualifier",
+        description: "Los Angeles, CA, United States",
+        takeaway:
+            "Expanding access for youth to compete in FLL provides opportunity for more students to engage with FIRST.",
+        color: m,
+        coordinates: { lat: 34.08720821088031, lng: -118.32861041712056}
+    },
+    {
+        title: "#29 | Meeting with Kara Rooney (Lakers)",
+        description: "Los Angeles, CA, United States",
+        takeaway:
+            "We learned how to efficiently coordinate impactful outreach events, and how to use cultural and community events to maintain sustainability and gain participation/interest. ",
+        color: c,
+        coordinates: { lat: 34.08720821088031, lng: -118.32861041712056}
+    },
+    {
+        title: "#30 | LAUSD Office Hours #1: CAD and Code",
+        description: "Los Angeles, CA, United States",
+        takeaway:
+            "Providing insight on CAD allows more teams to achieve technical excellence and proficiency within FTC.",
+        color: m,
+        coordinates: { lat: 34.08720821088031, lng: -118.32861041712056}
+    },
+    {
+        title: "#31 | Call with Aaed Musa",
+        description: "West Lafayette, Indiana, United States",
+        takeaway:
+            "Learning from his wrist mounted CD launcher, we found out that flywheels are dependent on moment of inertia and mass, so varying hood height and RPM are some of the best ways to score from the far and near goals quickly. Limelight and Odometry are both valid methods to automate score distances, but pick the one which is the most simple and fastest.Keep working on hands-on projects, expanding your skillset, and engaging with robots!",
+        color: c,
+        coordinates: {lat: 40.4237, lng: -86.9212}
+    },
+    {
+        title: "#32 | Lit Stem Presentation",
+        description: "Bac Ninh, 56, Vietnam",
+        takeaway:
+            "We learned that when judges come to your pit it's a great opportunity to really delve into that topic, so don’t just narrow yourself into a box trying to answer just that question. Expand and go over that whole category! For example you can ask them if you can give a short brief presentation on that category while answering their question.",
+        color: m,
+        coordinates: {lat: 21.1782, long: 106.0710}
+    },
+    {
+        title: "#33 |11/17 Bake Sale Prep #1",
+        description: "Los Angeles, California, United States",
+        takeaway:
+            "We learned how to maximize our bake sale profits by following current social media trends. ",
+        color: m,
+        coordinates: {lat: 34.16606451276976, lng: -118.51721926407535}
+    },
+    {
+        title: "#34 | 11/17 Bake Sale Prep #2",
+        description: "Los Angeles, California, United States",
+        takeaway:
+            "Maximizing efficiency  and our team work can allow us to make 67 pounds of cookie dough!",
+        color: m,
+        coordinates: {lat: 34.16606451276976, lng: -118.51721926407535}
+    },
+    {
+        title: "#35 | Cookies for Curiosity Bake Sale",
+        description: "Los Angeles, California, United States",
+        takeaway:
+            "We learned how to organize a large scale event and make a profit to help sustain other FIRST teams!",
+        color: m,
+        coordinates: {lat: 34.16606451276976, lng: -118.51721926407535}
+    },
+    {
+        title: "#36 | Honeybee Robotics Visit",
+        description: "Los Angeles, California, United States",
+        takeaway:
+            "We learned about PDR and CDR, two key design cycles used in NASA’s design process. We learned about the qualifications and each benchmark needed, and how they utilize wire management coupled with robust documentation to make forward progress on different innovations.",
+        color: c,
+        coordinates: {lat: 34.16606451276976, lng: -118.51721926407535}
+    },
+    {
+        title: "#37 |  L.A Port TraPac Terminal Visit ",
+        description: "Los Angeles, California, United States",
+        takeaway:
+            "We learned about how TraPac decides which mechanisms to automate and the reasoning behind it. We also learned about their logistical planning and how they coordinate the movement of their machines. ",
+        color: c,
+        coordinates: {lat: 33.74, lng: -118.51721926407535}
+    },
+    {
+        title: "#38 |  RoSophia Conference ",
+        description: "Galați, Romania",
+        takeaway:
+            "Use specific solutions like turrets for freedom of movement or pulleys for reliable power transmission, while always favoring simplicity to avoid performance-degrading complexity. We also learned to focus on versatile, modular chassis designs and using master sketches in CAD for better organization and labeling.",
+        color: c,
+        coordinates: {lat: 45.44, lng: 28.01}
+    },
+    {
+        title: "#39 |  Marlborough Admissions Open House ",
+        description: "Los Angeles, CA, United States",
+        takeaway:
+            "We were able to introduce X prospective students and their families to FIRST, sharing the mission and impact of robotics with girls throughout Los Angeles County. ",
+        color: c,
+        coordinates: { lat: 34.08720821088031, lng: -118.32861041712056}
+    },
+    {
+        title: "#40 |  Julianne Hannon Robot Advising",
+        description: "Cambridge, MA, United States",
+        takeaway:
+            "Julianne is one of our oldest alums and a senior at MIT! She was able to use her mechanical engineering expertise to advise us on how to maintain tension on the belt used for our shooter by adding a tensioner, along with switching the plywood panel under our shooter to polycarbonate for increased stability. We contacted her as she built a ball launcher for one of her MIT classes!  ",
+        color: c,
+        coordinates: { lat: 42.36608720821088031, lng: -71.1057}
+    },
+    {
+        title: "#41 |  UCLA Racing",
+        description: "Los Angeles, CA, United States",
+        takeaway:
+            "We learned about what future careers in engineering might look like, and what the similarities and differences between SAE racing, Baja racing, and supermilage are. We learned about how teams manage documentation, collaborate in shared workspaces, and approach the design process. We were amazed at all the similarities!  ",
+        color: c,
+        coordinates: { lat: 34.0699, lng: -118.4438}
+    },
+    {
+        title: "#42 |  Call with Grant Team Adelitas STEAmex",
+        description: "Chihuahua City, Chihuahua, Mexico",
+        takeaway:
+            "Finding specific team recipients for our grant can allow more girls to have access to competing in FIRST and allow them to compete at a higher level/introduce more students to FIRST.",
+        color: c,
+        coordinates: { lat: 28.64, lng: -106.07}
+    },
+    {
+        title: "#43 | Call with The Lobotimists 327",
+        description: "Hartsville, South Carolina, USA",
+        takeaway:
+            "Similar to us there team is entirely juniors and seniors, so prioritizing sustainability and making sure that the juniors are gaining the necessary skills is very important. New members taking responsibility and making an effort to gain those skills is also super important. ",
+        color: c,
+        coordinates: { lat: 34.36, lng: -80.08}
+    },
     {
         title: "Constellation Team: 19013 G Force",
         description: "Mumbai, India",
